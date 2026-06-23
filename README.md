@@ -1,4 +1,4 @@
-# Unofficial-PEQdB-Companion-App-for-macOS: PEQdB Flow
+# Unofficial-PEQdB-Companion-App-for-macOS | PEQdB Flow
 High-performance macOS Parametric EQ with Accelerate-powered real-time FFT analyzer, headroom safety protection, and ad-hoc preset sharing for audiophile setups.
 
 PEQdB Flow is a professional grade Parametric Equalizer (PEQ) and real time audio visualization tool for macOS. It features a responsive, clutter free audio engineering interface designed for high performance audio processing with minimal latency and CPU overhead.
